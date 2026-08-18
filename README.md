@@ -5,6 +5,7 @@ This project involves generating a synthetic, realistic dataset of Netflix shows
 
 ## Tools Used
 * **Python** (Jupyter Notebook / Script)
+* **Dataset: A synthetic Netflix-style dataset containing 5,000 records, used for practicing exploratory data analysis with Python and Pandas
 * **Pandas & NumPy**: Data generation, manipulation, and cleaning.
 * **Matplotlib & Seaborn**: Data visualization.
 
