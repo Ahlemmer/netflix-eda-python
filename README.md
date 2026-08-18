@@ -10,7 +10,7 @@ This project involves generating a synthetic, realistic dataset of Netflix shows
 
 ## Project Structure
 * `netflix.ipynb`: The main script that cleans the dataset, and outputs visualizations.
-* `netflix-eda-python/netflix_data.csv`: The generated synthetic dataset (5,000 records).
+* `netflix_data.csv`: The generated synthetic dataset (5,000 records).
 
 
 ## Key Insights
