@@ -21,7 +21,8 @@ This project involves generating a synthetic, realistic dataset of Netflix shows
 4. **Optimal Launch Timing:** Analyzes the most popular months for adding TV shows to the platform.
 5. **Recent Focus:** A stacked comparison showing how Netflix's strategy has shifted between TV Shows and Movies from 2015 onward.
 
-## How to Run
-1. Ensure you have the required libraries installed: `pip install pandas numpy matplotlib seaborn`
-2. Run the script: `python netflix.py` (or execute the Jupyter Notebook).
-3. The script will  clean the data, and save the visualization `.png` files in your directory.
+## 🚀 How to Run
+1. Clone this repository or download the Jupyter Notebook (`.ipynb`).
+2. Open the notebook in **Jupyter Notebook** or **JupyterLab**.
+3. Run the cells from top to bottom to execute the analysis.
+
